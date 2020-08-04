@@ -1,0 +1,7 @@
+classe
+objeto
+herança
+polimorfismo
+encapsulamento
+sobrecarga
+sobrescrita
